@@ -1,2 +1,3 @@
 "# youtube_clone" 
-(sample.PNG)
+
+![Running App](sample.PNG)
