@@ -1,2 +1,2 @@
 "# youtube_clone" 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](sample.PNG)
